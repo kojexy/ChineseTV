@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chinese TV</string>
+    <string name="live">● 直播 LIVE</string>
+    <string name="tv_guide">TV guide</string>
+    <string name="tv_guide_settings">TV guide &amp; settings</string>
+
+    <string name="off_air">现在没有节目 · Off air</string>
+    <string name="next_programme">Next: %1$s · %2$s\n%3$s at %4$s</string>
+    <string name="intermission">稍等 · Next episode soon</string>
+    <string name="intermission_text">%1$s continues in</string>
+    <string name="empty_title">No programmes yet</string>
+    <string name="ended_title">Nothing more is scheduled</string>
+    <string name="empty_text">Open the TV guide, add a series from a folder and give it a time.</string>
+    <string name="cannot_play">Can\'t play “%1$s” (%2$s). The channel moves on at the next episode.</string>
+
+    <string name="episode_of">Episode %1$d of %2$d · %3$s–%4$s</string>
+    <string name="then_episode">Then: episode %1$d at %2$s</string>
+    <string name="then_show">Then: %1$s, %2$s at %3$s</string>
+
+    <string name="leave_title">Are you sure you want to leave?</string>
+    <string name="leave_message">It\'s better to keep watching! %1$s keeps going without you — when you come back, you\'ll have missed it.</string>
+    <string name="keep_watching">Keep watching</string>
+    <string name="leave">Leave</string>
+
+    <string name="channel_on_air">Programme starts</string>
+    <string name="on_air_now">On air: %1$s</string>
+    <string name="on_air_text">It has started and it won\'t wait. Tap to watch.</string>
+    <string name="channel_standby">Standby</string>
+    <string name="standby_title">Chinese TV is on standby</string>
+    <string name="standby_text">The channel comes back by itself when a programme is on.</string>
+</resources>
